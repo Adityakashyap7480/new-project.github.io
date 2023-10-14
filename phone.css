@@ -1,0 +1,423 @@
+@media screen and (max-width:600px) {
+    .navbar {
+        width: 85vw;
+        left: 4vw;
+        top: 8vw;
+        height: 10.3vw;
+    }
+
+    .first {
+        /* height: 68vh; */
+        height: 620px;
+    }
+
+    .navbar ul {
+        gap: 1.4vw;
+    }
+
+    .primary {
+        top: 35vw;
+        left: 5vw;
+    }
+
+    .menu ul li {
+        font-size: 2.2vw;
+    }
+
+    .menu h2 {
+        font-size: 2vw;
+        padding: 4.3vw 0.6vw;
+    }
+
+    .logo {
+        top: 0.5vw;
+        width: 12vw;
+        height: 11.6vw;
+    }
+
+    .logo h1 {
+        font-size: 3.1vw;
+    }
+
+    .primary p {
+        font-size: 3.4vw;
+        width: 70%;
+        margin-bottom: 7vw;
+    }
+
+    .primary h1 {
+        font-size: 6vw;
+        margin-bottom: 5vw;
+    }
+
+    .btn {
+        font-size: 2.5vw;
+        padding: 1.9vw 1vw;
+    }
+
+    .small-box {
+        width: 93.4vw;
+        bottom: -96px;
+        max-height: 141px;
+    }
+
+    .detail i {
+        font-size: 4vw;
+        margin-bottom: 3vw;
+    }
+
+    .detail h3 {
+        font-size: 2.8vw;
+        margin-bottom: 2vw;
+    }
+
+    .detail p {
+        font-size: 2.4vw;
+        margin-bottom: 0.8vw;
+    }
+
+    .detail h2 {
+        font-size: 2.8vw;
+    }
+
+    .logo-2 i {
+        font-size: 3.1vw;
+        padding: 2vw 2vw;
+    }
+
+    .logo-2 {
+        bottom: 47px;
+    }
+
+    .container h1 {
+        font-size: 6.8vw;
+        top: 12vw;
+        left: 16vw;
+    }
+
+    .container {
+        top: 103px;
+        width: 99vw;
+        height: 138vh;
+    }
+
+    .four-box {
+        /* border: 2px solid blue; */
+        flex-direction: column;
+        position: relative;
+        display: flex;
+        text-align: center;
+        height: 127vh;
+        top: 45px;
+
+    }
+
+    .image img {
+        width: 15vw;
+        height: 9vh;
+    }
+
+    .image h2 {
+        font-size: 4.4vw;
+    }
+
+    .image p {
+        font-size: 4vw;
+        margin: 2vw;
+    }
+
+    .image h3 {
+        font-size: 3.1vw;
+        margin-bottom: 4vw;
+
+    }
+
+    .image {
+        margin: 3vw 1.4vw;
+    }
+
+    .inner-box {
+        /* border: 2px solid green; */
+        display: flex;
+        flex-direction: column;
+        height: 80vh;
+        text-align: center;
+    }
+
+    .urban img {
+        width: 92vw;
+        height: 33vh;
+    }
+
+    .container-2 {
+        top: 32vw;
+        height: 78vh;
+    }
+
+    .box-2 h1 {
+        font-size: 10vw;
+    }
+
+    .box-2 p {
+        font-size: 3vw;
+        letter-spacing: normal;
+        margin: 6vw 0;
+    }
+
+    .box-2 h4 {
+        font-size: 4.1vw;
+    }
+
+    .rectangle {
+        position: relative;
+        top: 42vw;
+        width: 98vw;
+        height: 34vh;
+        align-items: normal;
+    }
+
+    .no h1 {
+        font-size: 7vw;
+        margin: 2vw 0;
+    }
+
+    .no p {
+        font-size: 2.1vw;
+        font-family: math;
+        color: #514d4d;
+    }
+    .picture h1{
+        font-size: 9vw;
+        text-align: center;
+    }
+    .pg{
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        top: 35px;
+        left: 1.4vw;
+    }
+    .four img{
+        width: 92vw;
+        height: 40vh;
+    }
+    .box-foot{
+        height: 30vh;
+        top: 50px;
+    }
+    .box-foot h1{
+        font-size: 4vw;
+        margin-bottom: 3.2vw;
+    }
+    .box-foot h3{
+        font-size: 2.6vw;
+    }
+    .box-foot p{
+        font-size: 3.2vw;
+    }
+    .short-box{
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        top: 65vh;
+        align-items: center;
+    }
+    .child img{
+        width: 75vw;
+        height: 41vh;
+    }
+    .actor h1{
+        font-size: 7.6vw;
+        margin-left: 6vw;    
+    }
+    .actor{
+        height: 242vh;
+    }
+    .child h2{
+        font-size: 5.7vw;
+    }
+    .child P{
+        font-size: 3.3vw;
+    }
+    .icon-3 i{
+        font-size: 4.2vw;
+        padding: 3vw 1.6vw;
+    }
+    .short-box{
+        top: 85vh;
+    }
+    .icon-3 {
+        bottom: 110px;
+    }
+    .child{
+        margin: -8vw;
+    }
+    .sara-1{
+        /* border: 2px solid red; */
+        width: 99vw;
+        height: 137vh;
+        position: relative;
+        top: -1px;
+    }
+    .terminal{
+        position: relative;
+        bottom: 55vw;
+        left: 22vw;
+        text-align: center;
+        left: 38vw;
+        bottom: 60vw;
+    }
+    .terminal h1{
+        font-size: 8vw;
+        margin: 4vw 0;
+    }
+    .terminal p{
+        font-size: 4vw;
+    }
+    .terminal h4{
+        font-size: 4vw;
+        margin-top: 7vw;
+    }
+    .sara-2{
+        position: relative;
+        top: 50vw;
+        right: 30vw;
+        top: 45vw;    
+    }
+    .sara-3{
+        position: relative;
+        right: 26vw;
+        top: 45vw;
+    }
+    .john i{
+        padding: 1.9vw 3.4vw;
+        font-size: 3.7vw;
+    }
+    .john h1{
+        font-size: 4.1vw;
+    }
+    .john h4{
+        font-size: 3vw;
+    }
+    .john p{
+        font-size: 3vw;
+        margin: 6vw 0;    
+    }
+    .john{
+        width: 39vw;
+        height: 30vh;
+    }
+    .latest{
+        font-size: 4.8vw;
+        padding-left: 25vw;
+    }
+    .news{
+        position: relative;
+        top: -60px;    
+        /* height: 192vh; */
+    }
+    .post{
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        gap: 6vw;
+        top: 90vw;
+    }
+    .service img{
+        width: 90vw;
+        height: 34vh;
+    }
+    .service p{
+        font-size: 3.5vw;
+        margin: 2vw 6.1vw;
+    }
+    .service h1{
+        font-size: 5.6vw;
+        margin: 1vw 5.5vw;    
+    }
+    .service h3{
+        font-size: 3.1vw;
+        font-family: math;
+        margin: 3vw 6vw;
+    }
+    .date{
+        position: absolute;
+        transform: translateX(78.5vw);
+    }
+    .date h4{
+        font-size: 5.5vw;
+        line-height: 6vw;
+        padding: 5vw 2vw;
+    }
+    .date h2{
+        font-size: 3.2vw;
+        padding: 2vw;
+    }
+    .foot{
+        position: relative;
+        top: 153vw;
+        height: 20vh;
+        width: 94.5vw;
+    }
+    .foot h1{
+        font-size: 2.2vw;
+        font-weight: 500;
+    }
+    .space ul li{
+        padding: 1vw 1.7vw;
+        font-size: 2.6vw;
+    }
+    .phone{
+        position: relative;
+        width: 94.6vw;
+        height: 75vh;
+        left: 2vw;
+        top: 153vw;
+    }
+    .work h1{
+        font-size: 4vw;
+        margin: 3vw 3vw;
+    }
+    .work p{
+        font-size: 2.2vw;
+        line-height: 2.7vw;
+        width: 80%;
+        margin: 1vw 14px;
+    }
+    .work h2{
+        font-size: 2.5vw;
+        margin: 6vw 0;
+        margin: 6vw 11px;
+    }
+    .work h3{
+        font-size: 3vw;
+        line-height: 5vw;
+        font-family: math;
+        font-weight: 500;
+        margin: 3vw 12px;
+    }
+    .opening h5{
+        font-size: 2.6vw;
+        position: relative;
+        margin: -1vw 3vw;
+        bottom: 2.5vw;
+    }
+    .opening i{
+        left: 0vw;
+        top: 3.4vw;
+        font-size: 2.5vw;
+    }
+    .Adi{
+        width: 26vw;
+        text-align: center;
+        height: 17.6vw;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #e47312;
+        top: 39.1vw;
+    }
+    .icon{
+        font-size: 5.1vw;
+    }
+}
